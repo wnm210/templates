@@ -10,3 +10,6 @@ If you found template for you, you can star this repo.
 <br />
 
 ![list](https://wnm210.github.io/wnm210/templates_list.svg)
+```err
+Nothing is there? Or...
+```
